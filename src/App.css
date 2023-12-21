@@ -1,0 +1,52 @@
+/* Global Styles */
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: left;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Colour Picker Styles */
+.wheel{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px; 
+  text-align: center;
+}
+
+/* Button Styles */
+.on-off {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px; 
+  text-align: center;
+}
+
+/* Increment Styles */
+.input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px; 
+  text-align: center;
+}
+
+.input-num-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-num-box {
+  width: 0px;
+  text-align: center;
+}
