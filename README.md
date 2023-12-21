@@ -94,13 +94,9 @@ With these steps, you should have successfully created a new React app and confi
 
 1. Clone the repository containing the code.
 
-2. Install the necessary dependencies. Note: `node_modules` is not included, so you'll need to add the required files manually.
+2. Install the necessary dependencies. Note: `node_modules` is not included, so you'll need to add them by creating your own react app.
 
-3. Copy the following folders and files into your project:
-
-   - `react-bootstrap` folder from `node_modules` (for React Bootstrap components).
-   - `bootstrap.min.css` from `node_modules/bootstrap/dist/css` (for Bootstrap styling).
-   - `App.js`, `App.css`, and other React components.
+3. Copy the following folder and files into your project: From `src`, copy `App.js` and `App.css`.
 
 4. Include the necessary imports in your project.
 
